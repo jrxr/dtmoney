@@ -23,6 +23,14 @@
       "category": "Alimentação",
       "price": 120,
       "createdAt": "2022-07-30T19:30:44.505Z"
+    },
+    {
+      "description": "Manutenção do carro",
+      "price": 1500,
+      "category": "Carrro",
+      "type": "outcome",
+      "createdAt": "2022-08-11T22:02:35.802Z",
+      "id": 4
     }
   ]
 }
